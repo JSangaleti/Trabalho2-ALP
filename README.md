@@ -40,7 +40,12 @@ A linguagem escolhida foi **Python**, pelo equilíbrio entre facilidade de imple
 
 ## Instruções de instalação e execução
 
-Nada ainda
+Como estamos utilizando um ambiente virtual (pyvenv), para rodar o projeto, basta executar o arquivo `main.py`.
+
+Via terminal Linux: 
+```sh
+./main.py
+```
 
 ## Sobre as implementações
 
